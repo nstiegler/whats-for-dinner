@@ -1,0 +1,14 @@
+[
+  {
+    "history_id": 1,
+    "meal_id": 1,
+    "used_date": "2024-12-05",
+    "notes": "Loved it!"
+  },
+  {
+    "history_id": 2,
+    "meal_id": 2,
+    "used_date": "2024-12-06",
+    "notes": "Quick and easy!"
+  }
+]

@@ -1,0 +1,147 @@
+{
+  "meals": [
+    {
+      "meal_name": "Spaghetti Bolognese",
+      "cuisine": "Italian",
+      "protein": "Beef",
+      "prep_time": 10,
+      "cook_time": 20,
+      "ingredients": ["Spaghetti", "Ground beef", "Tomato sauce", "Garlic"],
+      "attributes": {
+        "Difficulty": "Medium",
+        "Dietary": "None"
+      }
+    },
+    {
+      "meal_name": "Chicken Stir Fry",
+      "cuisine": "Chinese",
+      "protein": "Chicken",
+      "prep_time": 15,
+      "cook_time": 15,
+      "ingredients": ["Chicken", "Soy sauce", "Vegetables", "Ginger"],
+      "attributes": {
+        "Difficulty": "Easy",
+        "Dietary": "Low Carb"
+      }
+    },
+    {
+      "meal_name": "Beef Tacos",
+      "cuisine": "Mexican",
+      "protein": "Beef",
+      "prep_time": 10,
+      "cook_time": 10,
+      "ingredients": [
+        "Ground beef",
+        "Taco shells",
+        "Cheese",
+        "Lettuce",
+        "Salsa"
+      ],
+      "attributes": {
+        "Difficulty": "Easy",
+        "Dietary": "Gluten-Free"
+      }
+    },
+    {
+      "meal_name": "Margherita Pizza",
+      "cuisine": "Italian",
+      "protein": "Vegetarian",
+      "prep_time": 20,
+      "cook_time": 25,
+      "ingredients": ["Pizza dough", "Tomato sauce", "Mozzarella", "Basil"],
+      "attributes": {
+        "Difficulty": "Medium",
+        "Dietary": "Vegetarian"
+      }
+    },
+    {
+      "meal_name": "Shrimp Pad Thai",
+      "cuisine": "Thai",
+      "protein": "Shrimp",
+      "prep_time": 15,
+      "cook_time": 20,
+      "ingredients": [
+        "Shrimp",
+        "Rice noodles",
+        "Peanuts",
+        "Eggs",
+        "Pad Thai sauce"
+      ],
+      "attributes": {
+        "Difficulty": "Medium",
+        "Dietary": "None"
+      }
+    },
+    {
+      "meal_name": "Vegetable Curry",
+      "cuisine": "Indian",
+      "protein": "Vegetarian",
+      "prep_time": 20,
+      "cook_time": 30,
+      "ingredients": ["Vegetables", "Coconut milk", "Curry powder", "Garlic"],
+      "attributes": {
+        "Difficulty": "Medium",
+        "Dietary": "Vegan"
+      }
+    },
+    {
+      "meal_name": "Grilled Salmon",
+      "cuisine": "American",
+      "protein": "Fish",
+      "prep_time": 10,
+      "cook_time": 15,
+      "ingredients": ["Salmon", "Lemon", "Garlic", "Olive oil"],
+      "attributes": {
+        "Difficulty": "Easy",
+        "Dietary": "Pescatarian"
+      }
+    },
+    {
+      "meal_name": "Eggplant Parmesan",
+      "cuisine": "Italian",
+      "protein": "Vegetarian",
+      "prep_time": 25,
+      "cook_time": 30,
+      "ingredients": [
+        "Eggplant",
+        "Tomato sauce",
+        "Parmesan cheese",
+        "Mozzarella"
+      ],
+      "attributes": {
+        "Difficulty": "Medium",
+        "Dietary": "Vegetarian"
+      }
+    },
+    {
+      "meal_name": "Beef Stroganoff",
+      "cuisine": "Russian",
+      "protein": "Beef",
+      "prep_time": 15,
+      "cook_time": 25,
+      "ingredients": ["Beef strips", "Mushrooms", "Onion", "Sour cream"],
+      "attributes": {
+        "Difficulty": "Hard",
+        "Dietary": "None"
+      }
+    },
+    {
+      "meal_name": "Chicken Caesar Salad",
+      "cuisine": "American",
+      "protein": "Chicken",
+      "prep_time": 10,
+      "cook_time": 5,
+      "ingredients": [
+        "Chicken",
+        "Lettuce",
+        "Caesar dressing",
+        "Croutons",
+        "Parmesan"
+      ],
+      "attributes": {
+        "Difficulty": "Easy",
+        "Dietary": "Low Carb"
+      }
+    }
+  ]
+}
