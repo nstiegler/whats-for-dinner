@@ -1,6 +1,7 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+.idea
 
 
 # Ignore .idea folder
@@ -8,6 +9,7 @@
 
 # Ignore database files
 *.db
+whats_for_dinner.db
 
 # Ignore compiled Python files
 *.pyc
