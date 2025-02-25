@@ -106,58 +106,6 @@ pip install -r requirements.txt
 python database.py --init
 ```
 
-## Usage
-
-### Command Line Interface
-
-Basic usage:
-
-```
-python main.py
-```
-
-Generate meal suggestions for the week:
-
-```
-python main.py --suggest 7
-```
-
-Filter meals by criteria:
-
-```
-python main.py --suggest 3 --cuisine Italian --protein Chicken
-```
-
-View meal details:
-
-```
-python main.py --details [meal_id]
-```
-
-### Example Workflows
-
-1. **Weekly Meal Planning**
-
-   ```
-   python main.py --suggest 7
-   ```
-
-   This will suggest 7 different meals for the week, taking into account meal history to avoid recent repetitions.
-
-2. **Specific Cuisine Planning**
-
-   ```
-   python main.py --suggest 2 --cuisine Mexican
-   ```
-
-   This will suggest 2 Mexican meals that haven't been used recently.
-
-3. **View Meal Details**
-   ```
-   python main.py --details 15
-   ```
-   This will display the name, ingredients, instructions, and cooking times for meal ID 15.
-
 ## Project Structure
 
 ```
@@ -202,4 +150,4 @@ This project is for personal use only.
 
 ## Author
 
-Created by [Your Name] for personal meal planning purposes.
+Created by Norman Stiegler for personal meal planning purposes.
