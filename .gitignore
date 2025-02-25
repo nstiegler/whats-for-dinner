@@ -3,6 +3,8 @@
 /workspace.xml
 .idea
 freecodecamp/
+data/schema.md
+import pandas as pd.py
 
 
 # Ignore .idea folder
